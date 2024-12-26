@@ -1,3 +1,4 @@
 # apniuni_demo
-this is my first Git repositary
-Author_Sufyan Khan
+this is my first Git repositary.
+<br>
+Author_Sufyan Khan 
